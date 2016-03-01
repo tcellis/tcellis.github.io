@@ -2,9 +2,16 @@
 body {
 	background-color: #fcf4e5;
 }
-h1, p {
+h1 {
+	color: black
+	font-size:18;
+	font-weight: 20
+	text-align: center;
+}
+
+p {
 	color: black;
-	font-size: 12;
+	font-size: 14;
 	text-align: center;
 	font-family: 'Lateef', cursive;
 }
